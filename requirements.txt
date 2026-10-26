@@ -1,0 +1,11 @@
+crewai>=0.100
+crewai-tools>=0.38
+langchain-community>=0.3
+langchain-huggingface>=0.1
+langchain-text-splitters>=0.3
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+pypdf>=5.0
+streamlit>=1.40
+openpyxl>=3.1
+python-dotenv>=1.0
